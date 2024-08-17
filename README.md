@@ -88,13 +88,11 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
     -	Implementación de Redes Neuronales en R
 
 
-## Recursos y herramientas:
-•	Libros:
-o	"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
-o	Documentación de R
-•	Software:
-o	R/RStudio
-o	Paquetes necesarios: tidyverse, caret, ggplot2, randomForest, xgboost, neuralnet
+## Recursos y software:
+-	"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+-	Documentación de R
+-    R/RStudio
+-    Paquetes necesarios: tidyverse, caret, ggplot2, randomForest, xgboost, neuralnet
 
 ## Acerca del instructor:
 El Dr. Obed Ramírez es Ingeniero en Agroecología, cuenta con una maestría en Computo Aplicado y un Doctorado en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Unidad Irapuato, México. Sus áreas de especialización son Bioinformática y Machine Learning. 
