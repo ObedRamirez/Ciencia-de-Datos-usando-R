@@ -1,3 +1,5 @@
+<img width="672" alt="flyer_ciencia_de_datos" src="https://github.com/user-attachments/assets/0660d065-23fb-4e60-8271-dd080f17724c">
+
 # Ciencia-de-Datos-usando-R
 
 **Inicio:** 3 de septiembre. 
@@ -34,29 +36,29 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 
 ## Programa
 
-1. Introducción a la Ciencia de Datos
+1. **Introducción a la Ciencia de Datos**
     - ¿Qué es la ciencia de datos?
     - El ciclo de la Ciencia de Datos
     -	Aplicaciones de la Ciencia de Datos
     -	Introducción a RStudio
     -	Instalación de paquetes
-2. Introducción a R
+2. **Introducción a R**
     - Otras formas de usar R: jupyter notebook, visual studio code, google colab
     -	Sintaxis básica
     -	Estructuras de datos
     -	Data frames
     -	Funciones
-3.	Preprocesamiento de datos
+3.	**Preprocesamiento de datos**
     -	¿Qué es la limpieza de datos?
     -	Valores perdidos (NAs)
     -	Feature Scaling y Transformaciones
     -	Lectura y escritura de archivos
     -	Manipulación de datos con dplyr
-4.	Exploración de datos
+4.	**Exploración de datos**
     -	Análisis exploratorio (EDA)
     -	Visualización de datos
     -	ggplot2 
-5.	Aprendizaje supervisado
+5.	**Aprendizaje supervisado**
     -	Regresión
       -	Regresión lineal Simple
       -	Regresión lineal Múltiple
@@ -64,27 +66,27 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
       -	Regresión logística
       -	Arboles de decisión
       -	Vecino más cercano (k-NN)
-6.	Aprendizaje no supervisado
+6.	**Aprendizaje no supervisado**
     -	K-Means
     -	Hierarchical Clustering
     -	Análisis de Componentes Principales (PCA)
     -	t-Distributed Stochastic Neighbor Embedding (t-SNE)
-7.	Evaluación de modelos y Estimación de parámetros
+7.	**Evaluación de modelos y Estimación de parámetros**
       -	ACC, Presición, Recall, F1 Score
       -	Matriz de confusión
       -	Curva ROC y AUC
       -	Validación Cruzada
       -	Estimación de parámetros
       -	Sobre-ajuste
-8.	Métodos de ensamble & paquete Caret
+8.	**Métodos de ensamble & paquete Caret**
       -	Random Forest
       -	Gradient Boosting Machines
       -	Funciones del paquete Caret
-9.	Introducción a las Redes Neuronales pt1 
+9.	**Introducción a las Redes Neuronales pt1**
     -	Conceptos básicos
     -	Gradiente Descendiente
     -	El algoritmo de Perceptrón
-10.	Introducción a las Redes Neuronales pt2
+10.	**Introducción a las Redes Neuronales pt2**
     -	Implementación de Redes Neuronales en R
 
 
