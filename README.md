@@ -34,64 +34,58 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 
 ## Programa
 
-- Introducción a la Ciencia de Datos
-  - ¿Qué es la ciencia de datos?
-  - El ciclo de la Ciencia de Datos
-  -	Aplicaciones de la Ciencia de Datos
-  -	Introducción a RStudio
+1. Introducción a la Ciencia de Datos
+    - ¿Qué es la ciencia de datos?
+    - El ciclo de la Ciencia de Datos
+    -	Aplicaciones de la Ciencia de Datos
+    -	Introducción a RStudio
     -	Instalación de paquetes
-- Introducción a R
-  - Otras formas de usar R: jupyter notebook, visual studio code, google colab
-  -	Sintaxis básica
-  -	Estructuras de datos
-  -	Data frames
-  -	Funciones
--	Preprocesamiento de datos 
-  -	¿Qué es la limpieza de datos?
-  -	Valores perdidos (NAs)
-  -	Feature Scaling y Transformaciones
-  -	Lectura y escritura de archivos
-  -	Manipulación de datos con dplyr
--	Exploración de datos
-  -	Análisis exploratorio (EDA)
-  -	Visualización de datos
-  -	ggplot2 
--	Aprendizaje supervisado
-  -	Regresión
-    -	Regresión lineal Simple
-    -	Regresión lineal Múltiple
-  -	Clasificación
-    -	Regresión logística
-    -	Arboles de decisión
-    -	Vecino más cercano (k-NN)
--	Aprendizaje no supervisado
-  -	Clustering
+2. Introducción a R
+    - Otras formas de usar R: jupyter notebook, visual studio code, google colab
+    -	Sintaxis básica
+    -	Estructuras de datos
+    -	Data frames
+    -	Funciones
+3.	Preprocesamiento de datos
+    -	¿Qué es la limpieza de datos?
+    -	Valores perdidos (NAs)
+    -	Feature Scaling y Transformaciones
+    -	Lectura y escritura de archivos
+    -	Manipulación de datos con dplyr
+4.	Exploración de datos
+    -	Análisis exploratorio (EDA)
+    -	Visualización de datos
+    -	ggplot2 
+5.	Aprendizaje supervisado
+    -	Regresión
+      -	Regresión lineal Simple
+      -	Regresión lineal Múltiple
+    -	Clasificación
+      -	Regresión logística
+      -	Arboles de decisión
+      -	Vecino más cercano (k-NN)
+6.	Aprendizaje no supervisado
     -	K-Means
     -	Hierarchical Clustering
-  -	Reducción de la dimensionalidad
     -	Análisis de Componentes Principales (PCA)
     -	t-Distributed Stochastic Neighbor Embedding (t-SNE)
--	Evaluación de modelos y Estimación de parámetros
-  -	Métricas de evaluación
-    -	ACC, Presición, Recall, F1 Score
-    -	Matriz de confusión
-    -	Curva ROC y AUC
-  -	Selección de modelos y Estimación de parámetros
-    -	Validación Cruzada
-    -	Estimación de parámetros
-    -	Sobre-ajuste
--	Métodos de ensamble & paquete Caret
-  -	Métodos de ensamble
-    -	Random Forest
-    -	Gradient Boosting Machines
-  -	Caret
-    -	Funciones del paquete Caret
--	Introducción a las Redes Neuronales pt1 
-  -	Conceptos básicos
-  -	Gradiente Descendiente
-  -	El algoritmo de Perceptrón
--	Introducción a las Redes Neuronales pt2
-  -	Implementación de Redes Neuronales en R
+7.	Evaluación de modelos y Estimación de parámetros
+      -	ACC, Presición, Recall, F1 Score
+      -	Matriz de confusión
+      -	Curva ROC y AUC
+      -	Validación Cruzada
+      -	Estimación de parámetros
+      -	Sobre-ajuste
+8.	Métodos de ensamble & paquete Caret
+      -	Random Forest
+      -	Gradient Boosting Machines
+      -	Funciones del paquete Caret
+9.	Introducción a las Redes Neuronales pt1 
+    -	Conceptos básicos
+    -	Gradiente Descendiente
+    -	El algoritmo de Perceptrón
+10.	Introducción a las Redes Neuronales pt2
+    -	Implementación de Redes Neuronales en R
 
 
 ## Recursos y herramientas:
