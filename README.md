@@ -1,4 +1,4 @@
-<img width="671" alt="flyer_ciencia_de_datos" src="https://github.com/user-attachments/assets/0d2bb803-68f1-49b9-b9bf-158a06f35954">
+<img width="671" alt="flyer_ciencia_de_datos" src="https://github.com/user-attachments/assets/27cd17f3-2c46-497b-ad07-b00017f516f3">
 
 # Ciencia-de-Datos-usando-R
 
