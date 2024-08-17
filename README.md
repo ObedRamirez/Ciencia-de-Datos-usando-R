@@ -27,7 +27,7 @@ Al finalizar el curso podrás agendar 1hra de mentoría individual donde revisar
 
 **Cupo máximo:** 15 participantes.
 
-**Informes/Inscripciones:** obed_eo@hotmail.com,  +52 595 102 00 73
+**Informes/Inscripciones:** obed_eo@hotmail.com, whatsapp +52 595 102 00 73
 
 ## Resumen:
 Este curso intensivo de 15hrs está diseñado para principiantes que quieran aprender los conceptos básicos de Ciencia de Datos utilizando el lenguaje de programación R. En este curso se cubrirán los conceptos fundamentales de Machine Learning, Redes Neuronales, preprocesamiento de datos y evaluación de modelos, utilizando ejemplos prácticos. Al final del curso, los participantes habrán adquirido experiencia con R y entenderán cómo aplicar el proceso de Ciencia de Datos en sus proyectos.
