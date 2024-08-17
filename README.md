@@ -40,58 +40,58 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
   -	Aplicaciones de la Ciencia de Datos
   -	Introducción a RStudio
     -	Instalación de paquetes
-2.	Introducción a R
-a.	Otras formas de usar R: jupyter notebook, visual studio code, google colab
-b.	Sintaxis básica
-c.	Estructuras de datos
-d.	Data frames
-e.	Funciones
-3.	Preprocesamiento de datos 
-a.	¿Qué es la limpieza de datos?
-b.	Valores perdidos (NAs)
-c.	Feature Scaling y Transformaciones
-d.	Lectura y escritura de archivos
-e.	Manipulación de datos con dplyr
-4.	Exploración de datos
-a.	Análisis exploratorio (EDA)
-b.	Visualización de datos
-c.	ggplot2 
-5.	Aprendizaje supervisado
-a.	Regresión
-i.	Regresión lineal Simple
-ii.	Regresión lineal Múltiple
-b.	Clasificación
-i.	Regresión logística
-ii.	Arboles de decisión
-iii.	Vecino más cercano (k-NN)
-6.	Aprendizaje no supervisado
-a.	Clustering
-i.	K-Means
-ii.	Hierarchical Clustering
-b.	Reducción de la dimensionalidad
-i.	Análisis de Componentes Principales (PCA)
-ii.	t-Distributed Stochastic Neighbor Embedding (t-SNE)
-7.	Evaluación de modelos y Estimación de parámetros
-a.	Métricas de evaluación
-i.	ACC, Presición, Recall, F1 Score
-ii.	Matriz de confusión
-iii.	Curva ROC y AUC
-b.	Selección de modelos y Estimación de parámetros
-i.	Validación Cruzada
-ii.	Estimación de parámetros
-iii.	Sobre-ajuste
-8.	Métodos de ensamble & paquete Caret
-a.	Métodos de ensamble
-i.	Random Forest
-ii.	Gradient Boosting Machines
-b.	Caret
-i.	Funciones del paquete Caret
-9.	Introducción a las Redes Neuronales pt1 
-a.	Conceptos básicos
-b.	Gradiente Descendiente
-c.	El algoritmo de Perceptrón
-10.	Introducción a las Redes Neuronales pt2
-a.	Implementación de Redes Neuronales en R
+- Introducción a R
+  - Otras formas de usar R: jupyter notebook, visual studio code, google colab
+  -	Sintaxis básica
+  -	Estructuras de datos
+  -	Data frames
+  -	Funciones
+-	Preprocesamiento de datos 
+  -	¿Qué es la limpieza de datos?
+  -	Valores perdidos (NAs)
+  -	Feature Scaling y Transformaciones
+  -	Lectura y escritura de archivos
+  -	Manipulación de datos con dplyr
+-	Exploración de datos
+  -	Análisis exploratorio (EDA)
+  -	Visualización de datos
+  -	ggplot2 
+-	Aprendizaje supervisado
+  -	Regresión
+    -	Regresión lineal Simple
+    -	Regresión lineal Múltiple
+  -	Clasificación
+    -	Regresión logística
+    -	Arboles de decisión
+    -	Vecino más cercano (k-NN)
+-	Aprendizaje no supervisado
+  -	Clustering
+    -	K-Means
+    -	Hierarchical Clustering
+  -	Reducción de la dimensionalidad
+    -	Análisis de Componentes Principales (PCA)
+    -	t-Distributed Stochastic Neighbor Embedding (t-SNE)
+-	Evaluación de modelos y Estimación de parámetros
+  -	Métricas de evaluación
+    -	ACC, Presición, Recall, F1 Score
+    -	Matriz de confusión
+    -	Curva ROC y AUC
+  -	Selección de modelos y Estimación de parámetros
+    -	Validación Cruzada
+    -	Estimación de parámetros
+    -	Sobre-ajuste
+-	Métodos de ensamble & paquete Caret
+  -	Métodos de ensamble
+    -	Random Forest
+    -	Gradient Boosting Machines
+  -	Caret
+    -	Funciones del paquete Caret
+-	Introducción a las Redes Neuronales pt1 
+  -	Conceptos básicos
+  -	Gradiente Descendiente
+  -	El algoritmo de Perceptrón
+-	Introducción a las Redes Neuronales pt2
+  -	Implementación de Redes Neuronales en R
 
 
 ## Recursos y herramientas:
