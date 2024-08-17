@@ -33,12 +33,13 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 -	No se necesita conocimiento previo de R.
 
 ## Programa
-1.	Introducción a la Ciencia de Datos
-a.	¿Qué es la ciencia de datos?
-b.	El ciclo de la Ciencia de Datos
-c.	Aplicaciones de la Ciencia de Datos
-d.	Introducción a RStudio
-e.	Instalación de paquetes
+
+- Introducción a la Ciencia de Datos
+  - ¿Qué es la ciencia de datos?
+  - El ciclo de la Ciencia de Datos
+  -	Aplicaciones de la Ciencia de Datos
+  -	Introducción a RStudio
+    -	Instalación de paquetes
 2.	Introducción a R
 a.	Otras formas de usar R: jupyter notebook, visual studio code, google colab
 b.	Sintaxis básica
