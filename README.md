@@ -96,9 +96,9 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 -   Paquetes necesarios: tidyverse, caret, ggplot2, randomForest, xgboost, neuralnet
 
 ## Acerca del instructor:
-El Dr. Obed Ramírez es Ingeniero en Agroecología, cuenta con una maestría en Computo Aplicado y un Doctorado en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Unidad Irapuato, México. Sus áreas de especialización son Bioinformática y Machine Learning. 
+El [Dr. Obed Ramírez](https://www.linkedin.com/in/obed-ram%C3%ADrez-s%C3%A1nchez-370565131/) es Ingeniero en Agroecología, cuenta con una maestría en Computo Aplicado y un Doctorado en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Unidad Irapuato, México. Sus áreas de especialización son Bioinformática y Machine Learning. 
 
-Cuenta con publicaciones y colaboraciones en las áreas de Machine Learning, Transcriptómica, Metagenómica y Evolución.
+Cuenta con [publicaciones y colaboraciones](https://www.researchgate.net/profile/Obed-Ramirez) en las áreas de [Machine Learning](https://www.nature.com/articles/s41598-020-73644-6), [Transcriptómica](https://academic.oup.com/nar/article/48/4/e21/5687825?login=false), [Metagenómica](https://www.mdpi.com/2073-4395/14/2/357) y [Evolución](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10707).
 
 A sido instructor en eventos reconocidos como:
 [Costa Rica Big Data School 2024](https://www.redconare.ac.cr/crbds2024/)
