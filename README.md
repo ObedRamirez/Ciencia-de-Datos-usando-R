@@ -1,4 +1,4 @@
-<img width="672" alt="flyer_ciencia_de_datos" src="https://github.com/user-attachments/assets/0660d065-23fb-4e60-8271-dd080f17724c">
+<img width="671" alt="flyer_ciencia_de_datos" src="https://github.com/user-attachments/assets/0d2bb803-68f1-49b9-b9bf-158a06f35954">
 
 # Ciencia-de-Datos-usando-R
 
@@ -10,7 +10,7 @@
 
 **Modalidad:** Clases en vivo, todas las sesiones quedarán grabadas. 
 
-**Plataforma:** Por definir
+**Plataforma:** Zoom
 
 **Scripts:** Al finalizar cada clase se te proporcionarán scripts con ejemplos y ejercicios
 
@@ -89,13 +89,17 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 10.	**Introducción a las Redes Neuronales pt2**
     -	Implementación de Redes Neuronales en R
 
-
-## Recursos y software:
--	"An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
--	Documentación de R
--    R/RStudio
--    Paquetes necesarios: tidyverse, caret, ggplot2, randomForest, xgboost, neuralnet
+## Materiales y Software:
+-	Cualquier computadora/laptop capaz de ejecutar RStudio
+-	Conexión a internet
+-   R/RStudio
+-   Paquetes necesarios: tidyverse, caret, ggplot2, randomForest, xgboost, neuralnet
 
 ## Acerca del instructor:
 El Dr. Obed Ramírez es Ingeniero en Agroecología, cuenta con una maestría en Computo Aplicado y un Doctorado en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Unidad Irapuato, México. Sus áreas de especialización son Bioinformática y Machine Learning. 
+
+Cuenta con publicaciones y colaboraciones en las áreas de Machine Learning, Transcriptómica, Metagenómica y Evolución.
+
+A sido instructor en eventos reconocidos como:
+[Costa Rica Big Data School 2024](https://www.redconare.ac.cr/crbds2024/)
 
