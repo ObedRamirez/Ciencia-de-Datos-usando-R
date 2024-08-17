@@ -2,6 +2,8 @@
 
 # Ciencia-de-Datos-usando-R
 
+**Dirigido a:** Estudiantes de posgrado, Investigadores, Profesionistas.
+
 **Inicio:** 3 de septiembre. 
 
 **Duración:** 15hrs (10 clases en total).
@@ -98,8 +100,9 @@ Este curso intensivo de 15hrs está diseñado para principiantes que quieran apr
 ## Acerca del instructor:
 El [Dr. Obed Ramírez](https://www.linkedin.com/in/obed-ram%C3%ADrez-s%C3%A1nchez-370565131/) es Ingeniero en Agroecología, cuenta con una maestría en Computo Aplicado y un Doctorado en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Unidad Irapuato, México. Sus áreas de especialización son Bioinformática y Machine Learning. 
 
-Cuenta con [publicaciones y colaboraciones](https://www.researchgate.net/profile/Obed-Ramirez) en las áreas de [Machine Learning](https://www.nature.com/articles/s41598-020-73644-6), [Transcriptómica](https://academic.oup.com/nar/article/48/4/e21/5687825?login=false), [Metagenómica](https://www.mdpi.com/2073-4395/14/2/357) y [Evolución](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10707).
+Cuenta con diversas [publicaciones y colaboraciones](https://www.researchgate.net/profile/Obed-Ramirez) en las áreas de [Machine Learning](https://www.nature.com/articles/s41598-020-73644-6), [Transcriptómica](https://academic.oup.com/nar/article/48/4/e21/5687825?login=false), [Metagenómica](https://www.mdpi.com/2073-4395/14/2/357) y [Evolución](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10707).
 
 A sido instructor en eventos reconocidos como:
 [Costa Rica Big Data School 2024](https://www.redconare.ac.cr/crbds2024/)
 
+Reconocimientos: Premio a la Investigación Médica Dr. Jorge Rosenkranz (Edición 2021) como coautor del proyecto ["Descubrimiento y diseño de péptidos no hemolíticos guiados por machine learning"](https://portal.cinvestav.mx/uga-langebio/comunicacion/divulgacion/descubrimiento-y-dise241o-de-p233ptidos-no-hemol237ticos-guiados-por-machine-learning)
